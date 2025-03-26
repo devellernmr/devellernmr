@@ -14,8 +14,8 @@
 
 
 📌 **Projetos em Destaque:**  
-🚀 [Projeto 1](https://github.com/devellernmr/CidaCunhaServir)  
-🎨 [Projeto 2](https://github.com/devellernmr/portifolio_curso)  
+🚀 [WebSite Landpage MesaPosta](https://github.com/devellernmr/CidaCunhaServir)  
+🎨 [WebSite Landpage Curso](https://github.com/devellernmr/portifolio_curso)  
 
 📊 **Minhas estatísticas:**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devellernmr&show_icons=true&theme=dark)  
